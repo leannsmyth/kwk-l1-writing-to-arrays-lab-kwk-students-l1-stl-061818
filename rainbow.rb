@@ -1,1 +1,1 @@
-rainbow_colors = [""]
+rainbow_colors = ["yellow", "default", "light cyan"]
